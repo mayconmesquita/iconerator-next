@@ -9,6 +9,7 @@ var assert = require('assert'),
     iconerator = require('../lib/iconerator'),
     testImg = path.resolve(__dirname, "./sliceisright.png"),
     testImg2 = path.resolve(__dirname, "./sliceisright.png"),
+    testImg3 = path.resolve(__dirname, "./sliceisright.png"),
     outputPath = path.resolve(__dirname, "./output"),
     timeout = 3000;
 
