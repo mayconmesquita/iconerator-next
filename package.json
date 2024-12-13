@@ -9,7 +9,7 @@
   ],
   "private": false,
   "description": "Generate all app market icons from a single input image (iOS + Android + Web)",
-  "version": "1.1.8",
+  "version": "1.1.10",
   "repository": {
     "type": "git",
     "url": "https://github.com/mayconmesquita/iconerator-next"
@@ -36,8 +36,7 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "test": "mocha --ui bdd --reporter spec",
-    "publish": "npm publish"
+    "test": "mocha --ui bdd --reporter spec"
   },
   "main": "index.js",
   "bin": {
